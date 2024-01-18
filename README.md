@@ -22,5 +22,5 @@
   <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&link=programadorpro@proton.me" alt="Gmail"/></a>
   <a href="#" title="LinkedIn">
-  <img src=" 	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=LINK-DO-SEU-LIcNKEDIN" alt="LinkedIn"/></a>
   
